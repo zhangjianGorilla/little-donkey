@@ -1,0 +1,17 @@
+{
+  "name": "little-donkey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "moment": "^2.29.3",
+    "zh_cn": "^0.0.7"
+  }
+}
