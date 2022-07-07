@@ -4,7 +4,7 @@ heroImage: /donkey.png
 heroText: ❤推磨的小毛驴
 tagline: 做一只勤劳、勇敢、善良、坚持、奋斗、人美心善的小毛驴。不怕学不懂，就怕不肯花时间磨。
 actionText: 慢慢推磨 →
-actionLink: /zh/guide/
+actionLink: /java/java
 features:
 - title: 简单
   details: 做任何事之前都不要想得很困难，所谓大道至简。
